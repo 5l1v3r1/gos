@@ -1,4 +1,4 @@
-module github.com/drsigned-os/gosnippets
+module github.com/drsigned/gos
 
 go 1.15
 
