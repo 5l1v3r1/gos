@@ -1,4 +1,4 @@
-package gosnippets
+package gos
 
 import (
 	"net/url"
